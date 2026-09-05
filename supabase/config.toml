@@ -1,0 +1,10 @@
+project_id = "ectdlrvbiaqxprolffqy"
+
+[functions.seed-data]
+verify_jwt = false
+
+[functions.validate-upload]
+verify_jwt = false
+
+[functions.imagekit-upload]
+verify_jwt = false
